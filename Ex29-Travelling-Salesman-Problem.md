@@ -16,8 +16,8 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 ## Program:
 
 Program to implement Travelling Salesman Problem for finding shortest path
-### Developed by: 
-### RegisterNumber:  
+### Developed by: JAYAKRISHNAN L B L
+### RegisterNumber: 212222230052 
 ```
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
